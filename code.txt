@@ -12,3 +12,5 @@ START:
     mov ah,4ch
     int 21h
 END START
+
+АСЕМБЛЕР ОЧЕНЬ НЕПОНЯТНЫЙ!
